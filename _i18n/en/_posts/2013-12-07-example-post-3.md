@@ -12,4 +12,4 @@ Example 3 is still under construction. Another try.
 
 ### The next chapter
 
-Here is my updated post 3.
+Here is my updated post 3. But I want to add a new sentence to it.
